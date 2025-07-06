@@ -10,6 +10,7 @@ markdown = "*"
 django-cors-headers = "*"
 djangorestframework-simplejwt = "*"
 django-filter = "*"
+gunicorn = "*"
 
 [dev-packages]
 
